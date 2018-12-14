@@ -1,0 +1,12 @@
+.Quadrado div{
+    width: 30%;
+    height: 50px;
+    margin: 10px;
+    background-color: green;
+
+}
+
+body{
+    display: inline-block;
+    width:30%;
+}

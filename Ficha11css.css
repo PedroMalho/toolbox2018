@@ -1,0 +1,118 @@
+body {
+    background: #f8f9fa;
+    margin: 
+    }
+
+.cor-principal {
+    color: crimson;
+    }
+
+h1 {
+    font-weight: 900;
+    height: 36px;
+    margin: 0;
+    line-height: 0.8;
+    }
+
+h6 {
+    color: red !important;
+   }
+    
+section .container .col-lg-12 {
+    background-color: white;
+    }
+
+#carouselExampleIndicators{
+        color:black;
+        height: 210px;
+       }
+
+#carouselExampleIndicators .carousel-indicators li{
+        background-color: rgba(220, 20, 60, 0.3);
+       }
+
+#carouselExampleIndicators .carousel-indicators .active{
+        background-color: crimson;
+       }
+
+#carouselExampleIndicators .carousel-control-next-icon, .carousel-control-prev-icon{
+        background-color: crimson;
+       }
+       
+.carousel-caption{
+        color: black;
+        top: 0;
+        padding: 60px 130px;
+       }
+
+.home-food img {
+ border-radius: 50%;
+ max-width: 100%;
+ height: auto;
+ }
+
+ footer {
+    color: white;
+    }
+
+   footer .container .col-lg-12{
+    background-color: maroon;
+    padding: 60px;
+   }
+
+   .social-media a {
+    padding: 0 10px;
+    color: white;
+    text-decoration: none;
+    }
+
+   .social-media a:hover {
+    color: grey;
+    }
+
+    .social-media-menu a {
+        padding: 0 10px;
+        color: maroon;
+        text-decoration: none;
+        }
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    margin:30px;
+    justify-content: center;
+}
+
+.menutexto{
+    width:35vw;
+    padding: 10px;
+    
+
+}
+        
+.entradas{
+margin: 60px;
+}
+
+.appetizer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.entradas1{
+    margin-left: 110px;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 20px;
+    text-align: left;
+    
+}
+second2{
+    color: blue;
+}
+   
